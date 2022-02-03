@@ -14,7 +14,7 @@ body{
     height: 100%;
 }
 .left{
-    background: url(../devil-bg.jpg);
+    background: url(devil-bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -24,7 +24,7 @@ body{
     align-items: center;
 }
 .right{
-    background: url(../devil-bg.jpg);
+    background: url(devil-bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
